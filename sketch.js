@@ -85,7 +85,7 @@ function draw() {
     }
 
     if (score > 0 && score % 100 === 0) {            
-      checkPointmp3.play();
+      
     }
 
     trex.velocityY = trex.velocityY + 0.8
